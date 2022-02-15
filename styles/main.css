@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+}
+
+.header {
+    background: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 5vw;
+    text-align: center;
+    list-style-type: none;
+}
+.header2 {
+    background: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 3vw;
+    text-align: center;
+    list-style-type: none;
+}
+.navigation-box {
+    background: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1vw;
+    text-align: center;
+    list-style-type: none;
+}
+.header3 {
+    background: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2vw;
+    text-align: center;
+    list-style-type: none;
+}
+
+.box {
+    display: block;
+    margin: 0 auto;
+}
+
+.video {
+    display: block;
+    margin: 0 auto;
+}
+
+.paragraph {
+    background: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2vw;
+    text-align: center;
+    list-style-type: none;
+}
+
+.nightbeachimage {
+    max-width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    list-style-type: none;
+}
