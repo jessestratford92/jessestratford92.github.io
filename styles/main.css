@@ -1,8 +1,8 @@
 
-
+/* 
 body {
     background-color: black;
-}
+} */
 
 /* .header {
     background: rgb(0, 0, 0);
@@ -13,14 +13,14 @@ body {
     list-style-type: none;
 } */
 
-.header2 {
+/* .header2 {
     background: rgb(0, 0, 0);
     color: whitesmoke;
     font-family: 'Cormorant Garamond', serif;
     font-size: 3vw;
     text-align: center;
     list-style-type: none;
-}
+} */
 .navigation-box {
     background: rgb(0, 0, 0);
     color: whitesmoke;
